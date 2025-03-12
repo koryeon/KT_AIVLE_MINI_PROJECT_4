@@ -67,7 +67,7 @@
 - **모델 개선**: Keras 및 YOLO 모델 구조 변경, 하이퍼파라미터 튜닝.
 - **실성능 확인**: 로컬 Cam에서 다양한 조건에서 성능 측정.
 - **결과 정리**: PPT로 시각화 및 발표 준비.
-
+<img width="766" alt="Image" src="https://github.com/user-attachments/assets/84041fb0-3037-4797-8327-8e1b3f85e6e9" />
 
 ## 참고 자료
 - [FaceNet 논문](https://arxiv.org/abs/1503.03832)
